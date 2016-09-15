@@ -1,10 +1,10 @@
-Ten Principles for Creating Usable Scientific Systems
-=====================================================
+# Ten Principles for Creating Usable Scientific Systems
+
 Lavanya Ramakrishnan,
 *Usable Software Systems Group*, LBNL,
 September 2016
 
-1. Solve the right problem first
+## 1. Solve the right problem first
 
     We were out to do some research on understanding next-generation big
     data problems. We got together because there was mutual interest.
@@ -13,7 +13,7 @@ September 2016
 
     ![](img/storage-small.png)
 
-2. Understand user motivations
+## 2. Understand user motivations
 
     Many of us have seen screenshots similar to these where people have
     complex processes to manage the software and scripts and data from
@@ -22,14 +22,14 @@ September 2016
 
     ![](img/process-small.png)
     
-3.  Understand the context of use
+## 3. Understand the context of use
 
     If we don't know where and how the scientists are collecting the
     data, the system we build probably won't be useful.
 
     ![](img/context-small.png)
 
-4. Validate and verify what you have heard
+## 4. Validate and verify what you have heard
 
     One of the questions we often struggle with is dealing with the
     chaos of user requirements and "what do they actually mean?". To
@@ -41,7 +41,7 @@ September 2016
 
     ![](img/heatmap-small.png)
     
-5.   Test before building; test after building
+## 5. Test before building; test after building
 
     We did a "paper prototype" usability for an API, to get feedback
     from our user on nomenclature and understand what our users valued
@@ -52,21 +52,21 @@ September 2016
 
     ![](img/tigres-feedback-small.png)
 
-6.  Clean interfaces can't make up for bad design
+## 6.  Clean interfaces can't make up for bad design
 
     If the user thinks in terms of hierarchies of organisms, or files,
     it will be difficult to satisfy them with a flat design.
 
     ![](img/mental-model-small.jpg)
 
-7. Build for the right user
+## 7. Build for the right user
 
     "What would I do?" may be extremely misleading. You have to
     continually ask yourself whether you are really modeling a real
     user, or just targeting someone who is convenient for you to think
     about (like yourself!)
 
-8. Understand the user's metrics
+## 8. Understand the user's metrics
 
     When computer engineers think about porting codes to HPC, they tend
     to think about performance of the codes. This is only one part of
@@ -76,10 +76,10 @@ September 2016
     their time, performance gains of the code itself are not
     very important.
 
-9. Cost / Benefit for the scientists is different from the developers
+## 9. Cost / Benefit for the scientists is different from the developers
 
 
-10. Be willing to iterate (early and often)
+## 10. Be willing to iterate (early and often)
 
     Needs change, process itself needs to be iterative. Time is of
     essence in engagements. Might need to iterate over designs -- but
