@@ -1,8 +1,10 @@
 # Ten Principles for Creating Usable Scientific Systems
 
-Lavanya Ramakrishnan,
-*Usable Software Systems Group*, LBNL,
+Lavanya Ramakrishnan, Daniel Gunter, Deborah Agarwal 
+*Data Science and Technology Department*, 
+Lawrence Berkeley National Lab. 
 September 2016
+
 
 ## 1. Solve the right problem first
 
