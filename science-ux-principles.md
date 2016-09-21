@@ -86,6 +86,7 @@ usability study -- this time, to study the effectiveness of using
 the API more thoroughly, and over a longer time period.
 
 
+REMOVE THIS PIC? 
 ![](img/tigres-feedback-small.png)
 
 ## 6.  Clean interfaces can't make up for bad design
