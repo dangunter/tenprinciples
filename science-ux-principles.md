@@ -62,8 +62,8 @@ We often struggle with dealing with the chaos of conflicting user
 requirements including - "what do they actually mean?" User research processes enable you to work through these requirements
 to come up with solid recommendations and priorities.
 
-**Example**: One such method that we have used is detailed [here]
-(http://lbl-udablog.blogspot.com/2015/12/evaluating-proposed-capabilities-to-be_1.html,"UDABlog")
+**Example**: One such method that we have used is detailed
+[here](http://lbl-udablog.blogspot.com/2015/12/evaluating-proposed-capabilities-to-be_1.html UDABlog).
 
     
 ## 5. Test before building; test after building
@@ -73,19 +73,19 @@ even building the system, and subsequently with early
 prototypes. Usability studies provide a methodology to conduct and
 learn from these tests. Traditionally, the methodology has been used
 for web interfaces but we have experimented with using the methods for
-APIs and found it tremendously useful. A good book on the 
-[topic](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292 Rocket Surgery) and [our paper](http://ieeexplore.ieee.org/document/6972276/ Tigres Paper)
+APIs and found it tremendously useful. A good book on the topic is Steve Krug's
+[Rocket Surgery Made Easy](https://www.amazon.com/Rocket-Surgery-Made-Easy--Yourself/dp/0321657292/ref=sr_1_1) and [our paper](http://ieeexplore.ieee.org/document/6972276/ Tigres Paper)
 that details the methodology we used for APIs
 
-We did a "paper prototype" usability for an API, to get feedback
+**Example**: We did a "paper prototype" usability for an API, to get feedback
 from our user on nomenclature and understand what our users valued
 the most. After developing a product, we performed a second round of
 usability study -- this time, to study the effectiveness of using
 the API more thoroughly, and over a longer time period.
 
 
-REMOVE THIS PIC? 
-![](img/tigres-feedback-small.png)
+<!-- REMOVE THIS PIC? 
+![](img/tigres-feedback-small.png) -->
 
 ## 6.  Clean interfaces can't make up for bad design
 
@@ -94,7 +94,7 @@ needs to capture the user's mental model. A clean user interface added
 at the end cannot make up for bad design. Also, a bad user interface
 can affect a good design.
 
-We found in one case that users preferred a file level UI better since
+**Example**: We found in one case that users preferred a file level UI better since
 it captured their mental model than a UI that was clean but didn't
 capture their mental model of the data layout.
 
@@ -109,7 +109,7 @@ yourself whether you are really modeling a real user, or just
 targeting someone who is convenient for you to think about (like
 yourself!).
 
-For example, in a research project, we discovered that since the tool
+**Example**: In a research project, we discovered that since the tool
 was initially built for experimentation purposes by computer
 scientists, there was no clear mechanism provided to access the output
 data from the runs. When the tool started getting used by science
@@ -127,8 +127,7 @@ important. Productivity, publication deadlines, etc. are often the
 user's metrics and needs to be taken into account when designing the
 system.
 
-## 9. Cost / Benefit for the science team is different from the
-   developement team 
+## 9. Cost / Benefit for the science team is different from the development team 
 
 It is important to remember that the cost/benefit analyses that a
 science team might do is often different from the analyses that a
@@ -142,9 +141,8 @@ if it does not improve the science result in some way.
 
 It is important to be willing to iterate and engage the users early
 and often. It is critical that developers don't get attached to their
-designs and are willing to pivot the development process. The Lean
-Startup
-[book](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation-ebook/dp/B004J4XGN6,LeanStartup)
+designs and are willing to pivot the development process. The [Lean
+Startup book](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation-ebook/dp/B004J4XGN6 LeanStartup)
 discusses some of the topics that are relavant in the development
 cycle.
 
