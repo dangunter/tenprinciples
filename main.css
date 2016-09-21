@@ -1,0 +1,10 @@
+body {
+    font-family: Oxygen, Helvetica, sans-serif;
+    font-size: 14px;
+    margin: 20px;
+    max-width: 820px;
+}
+h1 {
+    font-family: "Museo Sans Rounded", Helvetica, sans-serif;
+    color: #3C948B;
+}
