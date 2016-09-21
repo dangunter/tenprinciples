@@ -9,19 +9,18 @@ September 2016
 ## 1. Solve the right problem first
 
 Computer scientists often focus on the problem that they are
-interested in which might be a longer-term outlook. However, a good
-science engagement strategy will solve the right problem first, that
-is affecting the users today.
+interested in, which might be a longer-term outlook. However, a good
+science engagement strategy will solve the right problem, the one
+is affecting the users *today*, first.
 
-For example, in a science engagement with one of the science
+**Example**: In a science engagement with one of the science
 facilities, we were focused on learning their long term data
 problems. However, the user had a complex system of managing data on
 external hard disks and was running out of space and needed that
 problem solved first.
 
-NEED TO ADD Dula acknowledgement for that picture 
-
 ![](img/storage-small.png)
+<br>*Image courtesy Dula Parkinson, LBNL*
 
 ## 2. Understand user motivations
 
@@ -31,7 +30,7 @@ want it. Understanding a user's motivations for the engagement is a
 good indicator of their time investment in the project and also
 willingness for change.
 
-For example, many of us have seen screenshots similar to these where
+**Example**: Many of us have seen screenshots similar to these where
  people have complex processes to manage the software and scripts and
  data from their simulations and effectively have metadata and
  provenance in file names. A user who has growing volumes of data
@@ -46,37 +45,36 @@ For example, many of us have seen screenshots similar to these where
 It is important to understand the context of use of the system to be
 designed. For example, if we don't know where and how the scientists
 are collecting the data, the system we build probably won't be
-useful. In our case, knowing that data would be collected in the field
+useful. 
+
+**Example**: Knowing that data would be collected in the field
 in fairly difficult physical conditions changes the design of not just
 the mobile interface but also the backend that would support the data
 entry on sometimes spotty wireless signals.
 
-
-![](img/context-small.png) NEED TO ADD Ameriflux team as ack to image 
+![](img/context-small.png)
+<br>*Image courtesy the  [AmeriFlux project](ameriflux.lbl.gov)*
 
 
 ## 4. Validate and verify what you have heard
 
 We often struggle with dealing with the chaos of conflicting user
-requirements including - "what do they actually mean?"
+requirements including - "what do they actually mean?" User research processes enable you to work through these requirements
+to come up with solid recommendations and priorities.
 
-User research processes enable you to work through these requirements
-to come up with solid recommendations and priorities. One such method,
-we have used is detailed [here]
+**Example**: One such method that we have used is detailed [here]
 (http://lbl-udablog.blogspot.com/2015/12/evaluating-proposed-capabilities-to-be_1.html,"UDABlog")
 
     
 ## 5. Test before building; test after building
 
 It is critical to test how an user will interact with a system before
-even building the system and subsequently with early
+even building the system, and subsequently with early
 prototypes. Usability studies provide a methodology to conduct and
 learn from these tests. Traditionally, the methodology has been used
 for web interfaces but we have experimented with using the methods for
-APIs and found it tremendously useful. A good book on the [topic]
-(https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292,"Rocket
-Surgery") and [our
-paper](http://ieeexplore.ieee.org/document/6972276/,"Tigres Paper")
+APIs and found it tremendously useful. A good book on the 
+[topic](https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292 Rocket Surgery) and [our paper](http://ieeexplore.ieee.org/document/6972276/ Tigres Paper)
 that details the methodology we used for APIs
 
 We did a "paper prototype" usability for an API, to get feedback
