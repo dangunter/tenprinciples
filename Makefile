@@ -1,5 +1,7 @@
-default:
+default: build
+
+build:
 	pandoc science-ux-principles.md -o index.html
-update:
+update: build
 	git commit -a -m "new content"
 	git push
